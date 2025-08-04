@@ -1,1 +1,1 @@
-# Bank-Management-System-CSE341
+A bank management system project using assembly language in emu8086 which has features like logging into the bank account, user dashboard, checking balance, depositing money, withdrawing money, taking loan and viewing last transactions( deposit and withdrawal).
